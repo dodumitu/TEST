@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+#all {
+  display: block;
+  padding: 0 200px;
+  height: 100%;
+}
+#head {
+  font-size: xx-large;
+  background-color: blueviolet;
+  display: block;
+  padding: 0 200px;
+  height: 100%;
+}
+#body {
+  background-color: cadetblue;
+}
